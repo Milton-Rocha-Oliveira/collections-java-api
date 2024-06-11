@@ -1,4 +1,4 @@
-package Main.java.ListaSupermercado;
+package Collections.java.api.ListaSupermercado;
 
 public class CarrinhoSuperMercado {
     //atributo

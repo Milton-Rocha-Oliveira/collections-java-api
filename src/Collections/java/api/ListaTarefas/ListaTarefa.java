@@ -1,4 +1,4 @@
-package Main.java.ListaTarefas;
+package Collections.java.api.ListaTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

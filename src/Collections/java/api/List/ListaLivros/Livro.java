@@ -1,4 +1,4 @@
-package Collections.java.api.ListaLivros;
+package Collections.java.api.List.ListaLivros;
 
 public class Livro {
 
@@ -28,7 +28,7 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Livro:" +
+        return "Livro: " +
                 "titulo='" + titulo + '\'' +
                 ", autor='" + autor + '\'' +
                 ", anoPublicacao=" + anoPublicacao +

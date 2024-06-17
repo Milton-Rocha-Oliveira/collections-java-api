@@ -1,4 +1,4 @@
-package Collections.java.api.ListaTarefas;
+package Collections.java.api.List.ListaTarefas;
 
 public class Tarefa {
     //atributo

@@ -1,4 +1,4 @@
-package Collections.java.api.ListaSupermercado;
+package Collections.java.api.List.ListaSupermercado;
 
 import java.util.ArrayList;
 import java.util.List;
